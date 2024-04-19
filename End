@@ -6,94 +6,75 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-    <title>Nick Talley: Web Designer</title>
+    <title>Congratulations</title>
   </head>
   <body>
-    <div class="header1">
     <header>
-      <h1>Nicholas Talley</h1>
-      <h2>Web Design and More</h2>
+      <div class="endhero">
+        <h1>
+          Thank You For <br />
+          Viewing My Website
+        </h1>
+      </div>
     </header>
-  </div>
+<div class="all">
     <div id="particles-js"></div>
-    <div class="all">
-    <div class="indexboxes">
-      <div class="box1-2">
-      <div class="ibox1">
-        <p>
-          Welcome to my website, there is much to see. Everything from my past
-          school projects to personal projects that I work on in my free time.
-          In the about me and personal project sections, you can learn more
-          about myself and what I like to do on my own.
-        </p>
-      </div>
-      <div class="ibox2">
-        <img src="/images/me.png" alt="Image of a person">
-      </div>
-    </div>
-     <div class="box3-4">
-        <div class="ibox3">
+    <div class="endboxes">
+      <div class="e1-2">
+        <div class="ebox1">
           <p>
-            I have worked on many projects in my past. Four of my favorite
-          projects can be found within this website. These projects include a
-          board game, a calculator, a house selling company, and information on
-          the environment. These projects were all very important for helping me
-          understand programming concepts and teamwork and communication skills.
+            Thank you for taking the time to visit my website. A lot of hard
+            work went into this and I am proud to have people viewing it. Like
+            my past projects, this website has taught me about creating sites of
+            this scale and how to manage time while working on them. If you just
+            skipped straight to this page, please go back and view the other
+            pages if you can as they contain more information about myself and
+            my skills in web development. The links to all pages are found on
+            this page as well.
           </p>
         </div>
-        <div class="ibox4">
-          <img src="/images/homepic2.jpg" alt="Computer">
+        <div class="ebox2">
+          <img src="/images/final-img.png" alt="" />
         </div>
       </div>
-      <div class="box5-6">
-      <div class="ibox5">
-        <p>
-          To formally show my experience and skills, my resume is also attached
-          to one of this site’s pages. Feel free to contact me using the
-          information on the page for any work related questions or
-          opportunities. This resume will also be available for download.
-        </p>
+      <div class="e3-4">
+        <div class="ebox3">
+          <p>
+            I am currently open for job opportunities in the web development
+            field. I hope to work in game development in the near future and any
+            position that can help me achieve this goal would be greatly
+            appreciated. I can be contacted using the following methods.
+          </p>
+          <ul>
+            <li>nicholas.talley@student.cart.org</li>
+            <li>(505) 842-5662</li>
+          </ul>
+        </div>
+        <div class="ebox4">
+          <img src="/images/end2.jpg" alt="" />
+        </div>
       </div>
-      <div class="ibox6">
-        <img src="/images/Resume-index.jpg" alt="binders">
-      </div>
-    </div>
-    </div>
-    <div class="otherboxes">
-      <div class="pick"><p>Click on any door.</p></div>
-      <div class="toggle"><p>Click to show labels</p></div>
-      <div class="End">
-        <a href="end.html">
-          <P>Final Page</P>
-        </a>
-      </div>
-    </div>
-    <div class="doors">
-      <div class="door1">
-        <a href="personal.html">
-          <img src="images/blue-door.png" alt="Blue Door">
-        </a> 
-      </div>
-      <div class="door2">
-        <a href="about.html">
-          <img src="images/Green-door.png" alt="Green Door">
-        </a>
-      </div>
-      <div class="door3">
-        <a href="Web1.html">
-          <img src="images/red-door.png" alt="Red Door">
-        </a>
-      </div>
-      <div class="door4">
-        <a href="resume.html">
-          <img src="images/white-door.png" alt="White Door">
-        </a>
+        <div class="ebox5">
+        <h2>Use the following links to find other pages</h2>
+        <ul>
+          <a href="index.html">Home </a> /
+          <a href="english.html">Writing </a> /
+          <a href="resume.html">Resume </a>
+          <br>
+          <a href="Web1.html">Programming 1 </a> /
+          <a href="web2.html">Programming 2 </a>
+          <br>
+          <a href="personal.html">Personal Projects </a> /
+          <a href="about.html">About Me </a>
+        </ul>
+        </div>
       </div>
     </div>
-  </div>
+</div>
     <footer>
       <h3>Nicholas Talley 2023 &copy</h3>
-      <p>Talley.nick05@gmail.com <br>
+      <p>
+        Talley.nick05@gmail.com <br />
         (505) 842-5662
       </p>
       <a href="index.html">Home</a>
