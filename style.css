@@ -2,9 +2,7 @@ body{
     background-color: black;   
     margin: 0%;
 }
-*{
-    cursor: none;
-}
+
 p:hover{
     cursor: default;
 }
