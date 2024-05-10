@@ -219,7 +219,7 @@ height: 40%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
  .ebox1{
-    font-size: 3.9vh;
+    font-size: 3.5vh;
     padding-left: 3vw;
     padding-right: 2vw;
     margin-bottom: 5%;
@@ -240,7 +240,7 @@ height: 40%;
      display: flex;
  }
  .ebox2 img{
-     width: 35vw;
+     width: 29vw;
      margin-bottom:10% ;
      flex-wrap: wrap;
      display: flex;
@@ -254,7 +254,7 @@ height: 40%;
      justify-content: space-between;
  }
  .ebox3{
-    font-size: 3.5vh;
+    font-size: 3vh;
     padding-left: 3vw;
     padding-right: 2vw;
     margin-bottom: 5%;
