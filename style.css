@@ -355,7 +355,7 @@ height: 40%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .w2box1{
-    font-size: 3.5vh;
+    font-size: 3.08vh;
     padding-left: 3vw;
     padding-right: 2vw;
     margin-bottom: 5%;
@@ -374,6 +374,33 @@ height: 40%;
      display: flex;
  }
  .w2box2 img{
+    width: 35vw;
+    margin-bottom:10% ;
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 19%;
+    border: solid #575ec1 2px;
+    object-fit: fill;
+ }
+ .w23-4{
+     display: flex;
+     flex-wrap: wrap;
+     height: 40%;
+ }
+ .w2box3{
+    font-size: 3.7vh;
+    padding-left: 3vw;
+    padding-right: 2vw;
+    margin-bottom: 5%;
+    background-color: #31FFAF;
+    width: 45%;
+ }
+ .w2box4{
+     width: 45%;
+     flex-wrap: wrap;
+     display: flex;
+ }
+ .w2box4 img{
      width: 35vw;
      margin-bottom:10% ;
      flex-wrap: wrap;
@@ -381,34 +408,7 @@ height: 40%;
      margin-left: 19%;
      border: solid #575ec1 2px;
      object-fit: fill;
-    }
- .w23-4{
-     display: flex;
-     flex-wrap: wrap;
-     height: 40%;
  }
- .w2box3{
-    font-size: 3.5vh;
-    padding-left: 3vw;
-    padding-right: 2vw;
-    margin-bottom: 5%;
-    background-color: #31FFAF;
-    width: 45%;
-}
-.w2box4{
-    width: 45%;
-    flex-wrap: wrap;
-    display: flex;
-}
-.w2box4 img{
-    margin-bottom:10% ;
-    flex-wrap: wrap;
-    display: flex;
-    width: 35vw;
-    margin-left: 19%;
-    border: solid #575ec1 2px;
-    object-fit: fill;
-}
 .resboxes{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
 }
